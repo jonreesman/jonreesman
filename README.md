@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**jonreesman/jonreesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jon, and I am a transitioning Army veteran looking to enter into tech. I've spent the last year working to learn new tools, languages, and frameworks with the intent of becoming a Software Engineer, bridging the gap between my degree in Computer Engineering and my professional experience as an Infantry Officer.
 
-Here are some ideas to get you started:
+Most of my work has utilized the following technologies as I learn the fundamentals and idioms of software design:
+- Go
+- React/Next.js and React Native
+- Python
+- Typescript
+- C/C++
+- Postman
+- SQL
+- AWS/GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![LinkedIn link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonreesman)
+
+
+These are the projects I'm most proud of:
+- Watch-dog: [Backend](https://github.com/jonreesman/watch-dog-kafka) - [Frontend](https://github.com/jonreesman/watch-dog-next)
+- Chat-app: [Backend](https://github.com/jonreesman/chat) [Frontend](https://github.com/jonreesman/chat-next)
+- Discord Mimic Bot: [App](https://github.com/jonreesman/mimic)
+
