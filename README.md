@@ -13,7 +13,7 @@ Most of my work has utilized the following technologies as I learn the fundament
 - AWS/GCP
 
 
-[![LinkedIn link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonreesman)
+[![LinkedIn link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jon-reesman)
 
 
 These are the projects I'm most proud of:
