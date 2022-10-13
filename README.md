@@ -17,7 +17,7 @@ Most of my work has utilized the following technologies as I learn the fundament
 
 
 These are the projects I'm most proud of:
-- Watch-dog: [Backend](https://github.com/jonreesman/watch-dog-kafka) - [Frontend](https://github.com/jonreesman/watch-dog-next)
+- Watch-dog: [Backend](https://github.com/jonreesman/watch-dog-kafka) - [Frontend](https://github.com/jonreesman/watch-dog-next) - [Live Demo](https://watch-dog.jonreesman.dev)
 - Chat-app: [Backend](https://github.com/jonreesman/chat) - [Frontend](https://github.com/jonreesman/chat-next) - [Live Demo](https://chat.jonreesman.dev)
 - Discord Mimic Bot: [App](https://github.com/jonreesman/mimic)
 
